@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VinnyMendes
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: vinypotter.vm@gmail.com
