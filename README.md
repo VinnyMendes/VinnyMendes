@@ -11,4 +11,5 @@ willing to take new challenges.
 -Jimmy Dean
 
 -📍  From SC living in Brasília
+
 -👨🏻‍💻 Student at Digital House
