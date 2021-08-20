@@ -8,7 +8,6 @@ I love to learn new things and I am always
 willing to take new challenges.
 
 ### ⚓"I can’t change the direction of the wind, but I can adjust my sails to always reach my destination." 
-- Jimmy Dean
 
 📍  Living in Brasília
 
