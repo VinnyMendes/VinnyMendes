@@ -15,8 +15,8 @@ I love to learn new things and I am always willing to take new challenges.
 <br>
 <div align="center">
   <a href="https://github.com/VinnyMendes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinnyMendes&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyMendes&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VinnyMendes&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyMendes&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
   
   ![Snake animation](https://github.com/VinnyMendes/VinnyMendes/blob/output/github-contribution-grid-snake.svg)
