@@ -4,7 +4,7 @@ I'm from Brazil and I'm currently studying at Digital House.
 
 I love to learn new things and I am always willing to take new challenges.
 
-Living in Brasília
+Living in Brasília, Brazil
 
 <div style="display: inline_block" align=center><br>
   <img align="center" alt="Vinny-Js" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
