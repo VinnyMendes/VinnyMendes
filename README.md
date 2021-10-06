@@ -4,7 +4,7 @@ I'm from Brazil and I'm currently studying at Digital House.
 
 I love to learn new things and I am always willing to take new challenges.
 
-📍 Living in Brasília
+Living in Brasília
 
 <div style="display: inline_block" align=center><br>
   <img align="center" alt="Vinny-Js" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -29,4 +29,4 @@ I love to learn new things and I am always willing to take new challenges.
   <a href="https://www.linkedin.com/in/vinicius-mendes-da-silva-626838211/" target="__blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ### ⚓"I can’t change the direction of the wind, but I can adjust my sails to always reach my destination." 
+  ### "I can’t change the direction of the wind, but I can adjust my sails to always reach my destination." 
