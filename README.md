@@ -1,6 +1,6 @@
 # Hey I'm Vinny!
 
-I'm from Brazil and I'm currently studying at Digital House.
+I'm from Brazil.
 
 I love to learn new things and I am always willing to take new challenges.
 
@@ -13,11 +13,6 @@ Living in Brasília, Brazil
   <img align="center" alt="Vinny-CSS" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/VinnyMendes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VinnyMendes&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyMendes&layout=compact&langs_count=7&theme=great-gatsby"/>
-    </div>
   
  <div align=center> 
   
